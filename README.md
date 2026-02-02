@@ -66,4 +66,4 @@ PRs welcome! If you've discovered patterns that improve human-AI collaboration, 
 
 ---
 
-Built by [Bitplanet](https://bitplanet.ai) · Powering [Genie](https://genieai.to) & [Deva](https://deva.me)
+Built by [Bitplanet](https://bitplanet.ai) · Powering [Deva](https://deva.me)
